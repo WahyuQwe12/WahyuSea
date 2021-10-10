@@ -85,21 +85,21 @@ params:
   # Education
   disable_education: false
   education:
-    - degree: "B.tech"
-      branch: "Information Technology"
-      university: "Example university"
-      startedyear: "2013"
-      graduation: "2018"
-    - degree: "Degree"
-      branch: "Branch"
-      university: "Example university"
-      startedyear: "year"
-      graduation: "year"
-    - degree: "Degree"
-      branch: "Branch"
-      university: "Example university"
-      startedyear: "year"
-      graduation: "year"
+    - degree: "First"
+      branch: "School"
+      university: "SDN Sumberurip 02"
+      startedyear: "2010"
+      graduation: "2016"
+    - degree: "Islamic Junior High"
+      branch: "School"
+      university: "SMP Islam Pronojiwo"
+      startedyear: "2016"
+      graduation: "2019"
+    - degree: "Vocational"
+      branch: "School"
+      university: "SMK Negeri Pasirian"
+      startedyear: "2019"
+      graduation: "2022"
 
   # Projects
   disable_projects: false
@@ -113,9 +113,9 @@ params:
   # Achievements
   disable_achievements: false
   achievements:
-    - title: Competition winner
-      description: We are developed a product which can help others.
-      img: /images/achiv.jpg
+    - title: Classmate Football
+      description:  Ketika perlombaan classmate kita meraih juara 3 putra dan juara 4 putri
+      img: /images/arcv1.jpeg
     - title: Competition winner
       description: We are developed a product which can help others.
       img: /images/achiv.jpg
@@ -128,8 +128,8 @@ params:
 
   # Contact
   disable_contact: false
-  contact_content: My inbox is always open. Whether you have a question or just want to say hi, I'll try my best to get back to you!
-  email: "example@mail.com"
+  contact_content: Email saya selalu aktif 24 jam. kirimkan saja pertanyaan mu. akan saya balas secepatnya. Terima kasih telah mengunjungi web saya.
+  email: "wahyuex4@gmail.com"
 
   # Footer
   socialiconfooter: true
