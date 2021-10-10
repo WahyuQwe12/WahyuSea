@@ -54,9 +54,9 @@ params:
     - name: Mencintaimu
       percentage: 100
 
-  # Experience
-  disable_experience: false
-  experience:
+  # Activity
+  disable_activity: false
+  Activity:
     - company: "Google"
       # id: "google-user"   // use this, when you want to change the id(used for navigation)
       role: "Software User"
