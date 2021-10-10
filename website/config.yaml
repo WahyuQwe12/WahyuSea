@@ -1,6 +1,6 @@
 baseURL: "https://hugo-profile.netlify.app"
 languageCode: "en-us"
-title: "Hugo-profile"
+title: "Wahyu-Blog"
 theme: "./.."
 relativeURLs: true
 
@@ -30,57 +30,57 @@ params:
 
   # home
   disable_home: false
-  profile_image: "/images/profile.png"
-  name: "Example name"
+  profile_image: "/images/foto.jpeg"
+  name: "Mochamad Wahyu"
   namecolor: ffc107
-  profession: "Profession"
-  github: "https://github.com"
+  profession: "Student of SMK Negeri Pasirian"
+  github: "https://github.com/WahyuQwe12/"
   linkedin: "https://linkedin.com"
   twitter: "https://twitter.com/"
-  instagram: "https://instagram.com/"
-  facebook: "https://facebook.com"
+  instagram: "https://instagram.com/whyuuu_14/"
+  facebook: "https://facebook.com/mochamad.wahyu.108/"
 
   # About
   disable_about: false
-  descripe_l1_person: "Hi, I'm Profile, a passionate web developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
-  descripe_l2_person: "This is a example template for about section. You can find my works [here](#projects)"
+  descripe_l1_person: "Selamat datang di blog saya. Disini saya akan membagikan artikel artikel mengenai teknologi mungkin akan bermanfaat untuk kita semua. Terima kasih"
+  descripe_l2_person: "Disini saya akan membagikan beberapa hasil pencarian tentang teknologi. [here](#projects)"
   skills:
-    - name: CSS
+    - name: Game
       percentage: 90
-    - name: Django
-      percentage: 85
-    - name: Hugo
+    - name: Desain
       percentage: 80
-    - name: React JS
-      percentage: 70
+    - name: Hiking
+      percentage: 90
+    - name: Mencintaimu
+      percentage: 100
 
   # Experience
   disable_experience: false
   experience:
     - company: "Google"
-      # id: "google-developer"   // use this, when you want to change the id(used for navigation)
-      role: "Software developer"
-      startdate: Feb 2021
-      enddate: present
+      # id: "google-user"   // use this, when you want to change the id(used for navigation)
+      role: "Software User"
+      startdate: 2016
+      enddate: Until Now
       featuredpoints:
-        - point: Lead backend developer for a product.
-        - point: Created a frontend design for a product.
+        - point: Mencari sumber informasi penting.
+        - point: Sebagai media untuk pembelajaran.
     - company: "Facebook"
-      # id: "facebook-developer" // use this, when you want to change the id(used for navigation)
-      role: "Fullstack developer"
-      startdate: Mar 2020
-      enddate: Dec 2020
+      # id: "facebook-user" // use this, when you want to change the id(used for navigation)
+      role: "User"
+      startdate: 2017
+      enddate: Until Now
       featuredpoints:
-        - point: Lead backend developer for a product.
-        - point: Created a frontend design for a product.
-    - company: "Amazon"
-      # id: "amazon-developer" // use this, when you want to change the id(used for navigation)
-      role: "Fullstack developer"
-      startdate: Feb 2019
-      enddate: Jan 2020
+        - point: Digunakan untuk berkomunikasi dengan orang orang.
+        - point: Digunakan untuk berkomunikasi dengan orang orang
+    - company: "Instagram"
+      # id: "instagram-user" // use this, when you want to change the id(used for navigation)
+      role: "User"
+      startdate: 2018
+      enddate: Until Now
       featuredpoints:
-        - point: Lead backend developer for a product.
-        - point: Created a frontend design for a product.
+        - point: Untuk mencari hiburan saja.
+        - point: Sarana berkomunikasi dengan orang lain.
 
   # Education
   disable_education: false
