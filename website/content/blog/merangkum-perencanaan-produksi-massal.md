@@ -1,59 +1,36 @@
 +++
 author = "Mochamad Wahyu"
 bg_image = ""
-date = 2021-10-10T13:56:00Z
+date = 2021-10-10T14:21:00Z
 description = ""
 tags = ["Materi"]
 title = "Merangkum Perencanaan Produksi Massal"
 toc = ""
 
 +++
-1. **Perencanaan Produksi Massal**
+1. **Pengertian Produksi Massal**
 
-         Menurut Kamus Besar Bahasa Indonesia (KBBI), produksi adalah proses mengubah barang agar mempunyai kegunaan untuk memenuhi kebutuhan manusia. Produksi barang merupakan segala kegiatan untuk menciptakan atau menambah guna atas suatu benda yang ditunjukkan untuk memuaskan orang lain melalui pertukaran. Menurut Wikipedia, produksi
+           Menurut Kamus Besar Bahasa Indonesia (KBBI), produksi adalah proses mengubah barang agar mempunyai kegunaan untuk memenuhi kebutuhan manusia. Produksi barang merupakan segala kegiatan untuk menciptakan atau menambah guna atas suatu benda yang ditunjukkan untuk memuaskan orang lain melalui pertukaran. Menurut Wikipedia, produksi massal adalah sistem produksi dalam jumlah besar dari produk yang standar, termasuk dan terutama pada lini perakitan.
 
-   Massal adalah sistem produksi dalam jumlah besar dari produk yang standar, termasuk dan terutama pada lini perakitan. Produksi massal bisa diterapkan untuk berbagai jenis produk,
+           Tujuan produksi adalah untuk menghasilkan suatu barang, menambah dan meningkatkan nilai guna barang yang sudah ada, serta memperoleh tambahan penghasilan untuk memenuhi
 
-   dari cairan dan partikel-partikel yang ditangani dalam jumlah besar (seperti makanan, bahan bakar, bahan kimia, dan tambang mineral) sampai bagian-bagian padat yang kecil-kecil (seperti
+   semua kebutuhan manusia. Hasil suatu produk itulah yang didistribusikan dan dikonsumsi
 
-   pengencang) dan perakitan bagian-bagian kecil tersebut (seperti peralatan rumah tangga dan mobil). Hal ini berlaku juga untuk produk kerajinan, perumahan, dan lain sebagainya.
-
-         Tujuan produksi adalah untuk menghasilkan suatu barang, menambah dan meningkatkan nilai guna barang yang sudah ada, serta memperoleh tambahan penghasilan untuk memenuhi semua kebutuhan manusia. Hasil suatu produk itulah yang didistribusikan dan dikonsumsi masyarakat secara luas.
-       
-         Produksi massal merupakan suatu kegiatan memproduksi barang dalam jumlah yang besar dengan menentukan terlebih dahulu standar spesiYkasinya. Produk yang dihasilkan dari produksi massal memiliki ciri khas antara lain model, bentuk, dan rasa yang tidak mudah mengalami perubahan, serta banyak digunakan di masyarakat. Repetitive process ialah proses
-
-   produksi massal dan memproduksi produk-produk tertentu dalam jumlah besar dengan mengikuti serangkaian perancangan yang sama dengan produk sebelumnya, contohnya
-
-   sepeda, motor, mobil, dan elektronik. Salah satu ciri produksi massal yakni tidak harus ada negosiasi antara produsen dengan calon konsumen dalam pengerjaan barang. Produksi
-
-   massal sebelumnya terjadi sewaktu pihak dunia usaha maupun dunia industri melakukan survei pasar dalam menentukan masalah harga. Jika harga yang akan ditentukan mahal,
-
-   maka barang tersebut dapat kalah saing dengan barang yang setipe milik dunia usaha maupun dunia industri yang lainnya. Berdasarkan penjelasan tersebut, dapat disimpulkan bahwa kegiatan produksi massal merupakan kegiatan-kegiatan sesingkat mungkin dan biaya rendah serta dengan jumlah besar.
+   masyarakat secara luas.
 2. **Ciri-Ciri Produksi Massal**
 
-   Ciri-ciri produksi massal antara lain sebagai berikut.
-   * Dunia usaha maupun dunia industri mampu menghasilkan     produk dengan biaya rendah dan jumlah besar.
+           Sumber daya alam yang tersedia yang digabungkan dengan sumber daya manusia dengan keahlian dan keterampilan terlatih merupakan dorongan bagi dunia usaha maupun dunia industri dalam menerapkan proses produksi massal. Ciri-ciri produksi massal antara lain sebagai berikut.
+   * Dunia usaha maupun dunia industri mampu menghasilkan produk dengan biaya rendah dan jumlah besar.
    * Mampu menguasai pasar dalam tujuan produksi.
    * Produk banyak dijual di pasar bebas.
    * Produk hampir terbuat sama dan tidak ada variasi produk.
-   * Persediaan pemenuhan permintaan pada masa tunggu dalam memproduksi produk massal harus terpenuhi.
+   * Persediaan pemenuhan permintaan pada masa tunggu dalam memproduksi produk
 
-         Jika terjadi kelebihan produk atau over production, maka dunia usaha maupun dunia industri akan mengambil suatu tindakan, yaitu melakukan discount atau suatu promosi produk besar-besaran dan mengadakan kuis berhadiah. Hal tersebut dilakukan agar produk massal dapat diserap oleh pasar yang ada di Indonesia. Masalah yang dihadapi oleh sebuah dunia usaha maupun dunia industri yaitu tantangan dalam menjalankan proses menambah jumlah produksi harus tetap stabil.
+     massal harus terpenuhi.
+3. **Perencanaan Produksi Massal**
 
-     Produksi massal merupakan sebuah metode memproduksi dengan biaya rendah dalam jumlah besar, sehingga kualitas dapat terus meningkat dan dapat dipertahankan. Kelebihan
+           Perencanaan produksi merupakan proses menciptakan ide produk dan menindaklanjuti sampai produk diperkenalkan ke pasar. Selain itu, dunia usaha maupun dunia industri harus
 
-     melakukan produksi massal antara lain sebagai berikut.
-   * **Efisiensi waktu secara ekonomi**
+   memiliki strategi cadangan apabila produk gagal dalam pemasarannya (ekstensi produk atau perbaikan, distribusi, perubahan harga, dan promosi). Kesuksesan suatu dunia usaha
 
-     Produksi massal setiap pekerja melakukan hal yang sama dan menggunakan peralatan sama untuk proses produksi yang terus berjalan. Hal ini disebabkan mesin-mesin harus
-
-     bekerja dengan cepat. Para produsen mampu membuat produksi menjadi lebih singkat dengan cara membuat pekerja tidak perlu membutuhkan waktu dalam menyiapkan
-
-     perlengkapan serta bahan-bahan yang dibutuhkan dalam produksi.
-   * **Hemat Biaya Produksi**
-
-     Produsen memproduksi barang dalam jumlah besar. Dunia usaha maupun dunia industri akan mendapat potongan harga ketika membeli bahan baku dalam jumlah yang besar.
-
-     Produksi massal biasanya menggunakan mesin-mesin yang canggih, sehingga mampu mengurangi biaya untuk tenaga kerja (tidak membutuhkan tenaga kerja banyak). Hal ini
-
-     sangat penting bagi produsen makanan kecil dan besar agar menghemat pengeluaran yang tidak diperlukan.
+   maupun dunia industri tergantung dari cara mencukupi kebutuhan pelanggan, kemudian menciptakan produk yang dapat memenuhi kebutuhan dengan biaya yang rendah.
