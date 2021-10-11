@@ -129,7 +129,7 @@ toc = ""
     e. _breakdowns_
 
     Jawaban :
-10.  Mengatur operasi manufaktur yang berbeda dalam urutan prioritas merupakan bagian dari ....
+10. Mengatur operasi manufaktur yang berbeda dalam urutan prioritas merupakan bagian dari ....
 
     a. _routing_
 
@@ -159,7 +159,7 @@ toc = ""
    Jawaban : **_Marketing forecast kerena, marketing forecast dapat dilakukan proses perhitungan kebutuhan bahan, kapasitas produksi yang dibutuhkan, dan hal pendukung lainnya yang diperlukan dalam perencanaan produksi agar kualitasnya terjamin dan tepat._**
 5. Perihal perintah, instruksi, gambar, dan lainnya untuk memulai pekerjaan merupakan bagian dari ....
 
-   Jawaban : 
+   Jawaban :
    * **_Rounting_**
    * **_Penjadwalan_**
    * **_Despatching_**
@@ -168,7 +168,7 @@ toc = ""
 
 1. Jelaskan 3 kekurangan dari produksi massal!
 
-   Jawaban : 
+   Jawaban :
    * **_Dibutuhkan Modal Yang Besar. Untuk melakukan produksi secara massal maka akan dibutuhkan mesin-mesin yang memperlancar produksi._**
    * **_Pekerja Mengalami Penurunan Motivasi. Dalam produksi secara massal tentu efeknya terjadi tingkat produktivitas yang tinggi._**
    * **_Kurang fleksibel_**
