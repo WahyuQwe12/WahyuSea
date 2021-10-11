@@ -50,7 +50,7 @@ toc = ""
 
     e. elektronik
 
-    Jawaban : **_( d. over making )_**
+    Jawaban : **_( d. uang )_**
  4. Sebuah industri akan mengambil tindakan melakukan promosi besar-besaran, memberikan discount, dan melakukan kuis berhadiah ketika ....
 
     a. _over load_
@@ -63,7 +63,7 @@ toc = ""
 
     e. _over rekruitment_
 
-    Jawaban : **_( a. kekakuan produksi )_**
+    Jawaban : **_( c. over production )_**
  5. Salah satu kelebihan produksi massal adalah ....
 
     a. kekakuan produksi
