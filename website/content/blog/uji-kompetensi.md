@@ -24,7 +24,7 @@ toc = ""
 
     e. distribusi
 
-    Jawaban : **_(_**
+    Jawaban : **_( a. produksi )_**
  2. Produksi massal merupakan suatu kegiatan memproduksi dalam jumlah yang besar dengan menentukan terlebih dahulu standar ....
 
     a. mutunya
@@ -37,7 +37,7 @@ toc = ""
 
     e. spesifikasinya
 
-    Jawaban :
+    Jawaban : **_( e. spesifikasinya )_**
  3. Berikur ini yang **_Bukan_** merupakan contoh dari repetitive process adalah ....
 
     a. sepeda
@@ -50,7 +50,7 @@ toc = ""
 
     e. elektronik
 
-    Jawaban :
+    Jawaban : **_( d. over making )_**
  4. Sebuah industri akan mengambil tindakan melakukan promosi besar-besaran, memberikan discount, dan melakukan kuis berhadiah ketika ....
 
     a. _over load_
@@ -63,7 +63,7 @@ toc = ""
 
     e. _over rekruitment_
 
-    Jawaban :
+    Jawaban : **_( a. kekakuan produksi )_**
  5. Salah satu kelebihan produksi massal adalah ....
 
     a. kekakuan produksi
@@ -76,7 +76,7 @@ toc = ""
 
     e. besarnya ketidakakuratan
 
-    Jawaban :
+    Jawaban : **_( d. perlunya komitmen tinggi )_**
  6. penentuan tingkat kegiatan produksi untuk lima tahun mendatang disebut ....
 
     a. perencanaan yang matang
@@ -89,7 +89,7 @@ toc = ""
 
     e. perencanaan jangka tidak tetap
 
-    Jawaban :
+    Jawaban : **_( d. perencanaan jangka panjang )_**
  7. Berikut ini yang termasuk faktor internal yang memengaruhi faktor-faktor perencanaan produksi adalah ....
 
     a. inflasi
@@ -102,7 +102,7 @@ toc = ""
 
     e. cuaca alam sekitar
 
-    Jawaban :
+    Jawaban : **_( c. kapasitas mesin )_**
  8. Suatu proses penetapan dan penentuan urutan-urutan proses produksi dari bahan mentah sampai produk akhir disebut ....
 
     a. _routing_
@@ -115,7 +115,7 @@ toc = ""
 
     e. _breakdowns_
 
-    Jawaban :
+    Jawaban : **_( a. routing )_**
  9. Langkah dalam perencanaan produksi dan kontrol sebagai pengendali disebut ....
 
     a. _routing_
@@ -128,7 +128,7 @@ toc = ""
 
     e. _breakdowns_
 
-    Jawaban :
+    Jawaban : **_( d. expending )_**
 10. Mengatur operasi manufaktur yang berbeda dalam urutan prioritas merupakan bagian dari ....
 
     a. _routing_
@@ -141,7 +141,7 @@ toc = ""
 
     e. _breakdowns_
 
-    Jawaban :
+    Jawaban : **_( a. routing )_**
 
 **B. Soal Uraian Singkat**
 
