@@ -24,7 +24,7 @@ toc = ""
 
     e. distribusi
 
-    Jawaban :2
+    Jawaban : **_(_**
  2. Produksi massal merupakan suatu kegiatan memproduksi dalam jumlah yang besar dengan menentukan terlebih dahulu standar ....
 
     a. mutunya
@@ -129,9 +129,7 @@ toc = ""
     e. _breakdowns_
 
     Jawaban :
-10.  Mengatur operasi manufaktur yang berbeda dalam urutan
-
-     prioritas merupakan bagian dari ....
+10.  Mengatur operasi manufaktur yang berbeda dalam urutan prioritas merupakan bagian dari ....
 
     a. _routing_
 
