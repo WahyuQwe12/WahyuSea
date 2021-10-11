@@ -1,7 +1,7 @@
 +++
 author = "Mochamad Wahyu"
 bg_image = ""
-date = 2021-10-11T16:31:00Z
+date = 2021-10-11T04:31:00Z
 description = ""
 tags = ["Uji Kompetensi"]
 title = "UJI KOMPETENSI"
