@@ -4,7 +4,7 @@ bg_image = ""
 date = 2021-10-10T14:21:00Z
 description = ""
 tags = ["Materi"]
-title = "Merangkum Perencanaan Produksi Massal"
+title = "Perencanaan Produksi Massal"
 toc = ""
 
 +++
