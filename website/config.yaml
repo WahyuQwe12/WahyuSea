@@ -30,7 +30,7 @@ params:
 
   # home
   disable_home: false
-  profile_image: "/images/foto.jpeg"
+  profile_image: "/images/gg.jpeg"
   name: "Mochamad Wahyu"
   namecolor: ffc107
   profession: "Student of SMK Negeri Pasirian"
