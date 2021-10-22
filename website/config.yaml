@@ -1,6 +1,6 @@
 baseURL: "https://hugo-profile.netlify.app"
 languageCode: "en-us"
-title: "Wahyu-Blog"
+title: "Wahyu Blog"
 theme: "./.."
 relativeURLs: true
 
