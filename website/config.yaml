@@ -50,8 +50,8 @@ params:
       percentage: 80
     - name: Hiking
       percentage: 90
-    - name: Mencintaimu
-      percentage: 100
+    - name: Coding
+      percentage: 50
 
   # Experience
   disable_experience: false
