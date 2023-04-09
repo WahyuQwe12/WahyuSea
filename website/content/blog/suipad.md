@@ -1,7 +1,7 @@
 +++
 author = "Mochamad Wahyu"
 bg_image = ""
-date = 2023-04-09T23:00:00Z
+date = 2023-04-09T23:08:00Z
 description = ""
 tags = ["Materi"]
 title = "SUIPAD"
@@ -16,7 +16,14 @@ SUIPAD roadmap
 
 TOKENOMICS
 
-Token information Type: Sui Token on Sui Network Ticker: SUIP Total supply: 100,000,000 SUIP (fixed) Token contract: TBA Initial circulating supply: 10,100,000 SUIP Initial market cap: $606,000 USD Private sale price: $0.02 - $0.03 USD Public sale price: $0.05 USD
+* Token information 
+* Type: Sui Token on Sui Network Ticker: 
+* SUIP Total supply: 100,000,000 SUIP (fixed) 
+* Token contract: TBA Initial circulating 
+* supply: 10,100,000 SUIP 
+* Initial market cap: $606,000 USD 
+* Private sale price: $0.02 - $0.03 USD 
+* Public sale price: $0.05 USD
 
 Token distribution Our seed and private sale rounds are distributed to many different participants. By distributing our seeds, private and public sales, we are trying to create the fairest distribution of tokens at launch possible without a single entity holding a large supply.
 
