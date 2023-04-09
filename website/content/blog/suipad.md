@@ -1,44 +1,31 @@
 +++
 author = "Mochamad Wahyu"
 bg_image = ""
-date = 2021-10-22T12:58:00Z
+date = 2023-04-09T23:00:00Z
 description = ""
-draft = true
 tags = ["Materi"]
 title = "SUIPAD"
 toc = ""
 
 +++
-### **Teknologi Pendidikan**
+SuiPad is the first IDO & INO platform built on top of Sui, the first permissionless Layer 1 blockchain serving the next billion users on web3. We aim to bring you the next blue chip on Sui.SuiPad will introduce decentralized fundraising, $SUIP token staking, and voting governance to the Sui ecosystem.   The SuiPad platform will be a complete solution for SuiPad, with integrated wallet, DEX and transaction management. All major Sui wallets will be supported. This platform will extend any wallet connected with inline wallet management. Users do not need to leave the platform to view token balances, send or receive tokens or manage token accounts. Experienced users can still manage their wallet through their wallet provider, and any changes will be reflected on the platform immediately.
 
-Teknologi Pendidikan sekarang sangat jauh berkembang. Dengan perkembangan teknologi yang sangat pesat membuat proses pembelajaran lebih cepat dan efektif. Kita masih ingat untuk mendapatkan sebuah bacaan berupa buku sangat sulit, apalagi di tempat-tempat pelosok. Mereka hanya bisa mengandalkan guru-guru mereka sebagai sumber tunggal materi. Berbeda dengan sekarang, perkembangan teknologi telah membawa banyak perubahan bagi dunia pendidikan. Sebut saja teknologi yang sangat berperan penting adalah layanan internet. Hanya mengetik kata yang berhubungan dengan informasi yang kita ingin cari pada web search engine, maka dengan cepat kita akan mendapatkan informasi tersebut.
+sSuiPad is the first decentralized launchpad on the Sui Network. With Sui building the safest and most scalable Layer 1 blockchain for its next billion users, SuiPad was engineered from the ground up to empower Sui project owners (both Token & NFT), by offering a personalized token launch experience with a customized launch model, time period , types of tokens accepted, and the auction algorithm. SuiPad is only successful if our launchpad project is successful.
 
-Berikut beberapa definisi teknologi pendidikan :
+SUIPAD roadmap
 
-Suatu cara yang sistematis dalam mendesain, melaksanakan, dan mengevaluasi proses keseluruhan dari belajar dan pembelajaran dalam bentuk tujuan pembelajaran yang spesifik, berdasarkan penelitian dalam teori belajar dan komunikasi pada manusia dan menggunakan kombinasi sumber-sumber belajar dari manusia maupun non-manusia untuk membuat pembelajaran lebih efektif. Dengan demikian, sejak tahun 1970an, sudah ada pandangan bahwa manusia (dalam hal ini guru ) bukanlah satu-satunya sumber belajar.
+TOKENOMICS
 
-Menurut Tom Cutchall (1999) teknologi pendidikan merupakan penelitian dan aplikasi ilmu perilaku dan teori belajar dengan menggunakan pendekatan sistem untuk melakukan analisis , desain, pengembangan, implementasi, evaluasi dan pengelolaan penggunaan teknologi untuk membantu memecahkan masalah belajar dan kinerja. Tujuan utamanya adalah pemanfaatan teknologi untuk membantu memecahkan masalah belajar dan kinerja manusia
+Token information Type: Sui Token on Sui Network Ticker: SUIP Total supply: 100,000,000 SUIP (fixed) Token contract: TBA Initial circulating supply: 10,100,000 SUIP Initial market cap: $606,000 USD Private sale price: $0.02 - $0.03 USD Public sale price: $0.05 USD
 
-Teknologi pendidikan adalah satu bidang dalam memfasilitasi belajar manusia melalui identifikasi, pengembangan, pengorganisasian dan pemanfaatan secara sistematis seluruh sumber belajar dan melalui pengelolaan proses kesemuanya itu. Obyek formal menurut pengertian ini adalah bagaimana memfasilitasi belajar.
+Token distribution Our seed and private sale rounds are distributed to many different participants. By distributing our seeds, private and public sales, we are trying to create the fairest distribution of tokens at launch possible without a single entity holding a large supply.
 
-Teknologi Pendidikan adalah proses kompleks yang terintegrasi meliputi orang, prosedur , gagasan, sarana dan organisasi untuk menganalisis masalah dan merancang, melaksanakan, menilai dan mengelola pemecahan masalah dalam segala aspek belajar manusia. Obyek formal teknologi pendidilkan adalah memecahkan masalah belajar manusia. Dilakukan dengan cara menganalisis masalah terlebih dahulu, baru kemudian melaksanakan, menilai dan mengelola pemecahan masalah tersebut.
+Decentralization and Community are key drivers of the Web 3.0 economy, and with SuiPad's proprietary launch model, we've combined tier- and lottery-based allocation to ensure fair prize distribution to all token holders. Nonetheless, we also understand that participating in a launchpad IDO is a high risk - high reward activity so we are holding an escrow for project funds to protect investors' primary capital.
 
-Definisi terbaru, teknologi pendidikan adalah studi dan praktek etis dalam upaya memfasilitasi pembelajaran dan meningkatkan kinerja dengan cara menciptakan, menggunakan atau memanfaatkan, dan mengelola proses dan sumber-sumber teknologi yang tepat.
+The tokens in the round called Initial DEX Offering (IDO) will be issued in a fully autonomous and decentralized manner through the use of smart contracts. With SuiPad, NFT tokens or projects will be able to increase liquidity cheaply and quickly. Users will be able to participate in a safe and risk-adjusted environment, as well as boost the next wave of crypto projects on the Sui Network.
 
-Jelas, tujuan utamanya masih tetap untuk memfasilitasi pembelajaran (agar efektif, efisien dan menarik) dan meningkatkan kinerja.
+Token distribution Our seed and private sale rounds are distributed to many different participants. By distributing our seeds, private and public sales, we are trying to create the fairest distribution of tokens at launch possible without a single entity holding a large supply.
 
-Berdasarkan definisi-definisi diatas dapat disimpulkan bahwa:
+Decentralization and Community are key drivers of the Web 3.0 economy, and with SuiPad's proprietary launch model, we've combined tier- and lottery-based allocation to ensure fair prize distribution to all token holders. Nonetheless, we also understand that participating in a launchpad IDO is a high risk - high reward activity so we are holding an escrow for project funds to protect investors' primary capital.
 
-Teknologi pendidikan adalah suatu disiplin /bidang (field of study)
-
-Istilah teknologi pembelajaran dipakai bergantian dengan istilah teknologi pendidikan
-
-Tujuan utama teknologi pembelajaran adalah o Untuk memecahkan masalah belajar atau memfasilitasi pembelajaran; dan o Untuk meningkatkan kinerja ;
-
-Dalam mewujudkan tersebut menggunakan pendekatan sistemi (pendekatan yag holistik/komprehensif, bukan pendekatan yang bersifat parsial);
-
-Kawasan teknologi pendidikan dapat meliputi kegiatan yang berkaitan dengan analisis, desain, pengembangan, pemanfaatan , pengelolaan, implementasi dan evaluasi baik proses-proses maupun sumber-sumber belajar.
-
-Teknologi pembelajaran tidak hanya bergerak di persekolahan tapi juga dalam semua aktifitas manusia (seperti perusahaan, keluarga , organisasi masyarakat, dll) sejauh berkaitan dengan upaya memcahkan masalah belajar dan peningkatan kinerja.
-
-Yang dimaksud dengan teknologi disini adalah teknologi dalam arti yang luas, bukan hanya teknologi fisik (hardtech), tapi juga teknologi lunak (softtech).
+The tokens in the round called Initial DEX Offering (IDO) will be issued in a fully autonomous and decentralized manner through the use of smart contracts. With SuiPad, NFT tokens or projects will be able to increase liquidity cheaply and quickly. Users will be able to participate in a safe and risk-adjusted environment, as well as boost the next wave of crypto projects on the Sui Network.
