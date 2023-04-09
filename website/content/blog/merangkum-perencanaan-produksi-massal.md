@@ -3,6 +3,7 @@ author = "Mochamad Wahyu"
 bg_image = ""
 date = 2021-10-19T17:07:00Z
 description = ""
+draft = true
 tags = ["Materi"]
 title = "Perencanaan Produksi Massal"
 toc = ""
