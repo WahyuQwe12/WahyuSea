@@ -1,7 +1,7 @@
 +++
 author = "wahyu"
 bg_image = ""
-date = 2023-04-10T10:47:00Z
+date = 2023-04-10T10:56:00Z
 description = ""
 tags = []
 title = "Get to know the SuiPad Platform Lauchpad in the SUI Ecosystem"
