@@ -1,7 +1,7 @@
 +++
 author = "Mochamad Wahyu"
 bg_image = ""
-date = 2023-04-09T23:08:00Z
+date = 2023-04-09T23:11:00Z
 description = ""
 tags = ["Materi"]
 title = "SUIPAD"
